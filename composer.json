@@ -1,0 +1,29 @@
+{
+  "name": "JFinong/Ace-admin",
+  "description": "admin template",
+  "keywords": [
+    "yii2",
+    "extension",
+    "Ace",
+    "admin"
+  ],
+  "homepage": "git@github.com:jFinong/ace.git",
+  "type": "yii2-extension",
+  "license": "BSD 3-Clause",
+  "authors": [
+    {
+      "name": "chenxiaolong",
+      "email": "1329592945@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "jfinong\\": ""
+    }
+  }
+}
+
