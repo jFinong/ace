@@ -25,3 +25,5 @@ Browsers:
 - Latest Firefox
 - Latest Opera
 - Latest Safari
+# ace
+Ace-admin,Yii2.0
